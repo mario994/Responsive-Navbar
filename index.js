@@ -1,4 +1,3 @@
-import css from './css/main.css';
 const btnMenu = document.querySelector('.hamburguer-menu');
 const menuBar = document.querySelector('.menu');
 
